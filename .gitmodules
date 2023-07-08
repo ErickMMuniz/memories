@@ -1,3 +1,7 @@
 [submodule "memories/themes/ananke"]
        path = memories/themes/ananke
        url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+
+[submodule "memories/themes/PaperMod"]
+       path = memories/themes/PaperMod
+       url = https://github.com/adityatelange/hugo-PaperMod.git
