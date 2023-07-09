@@ -1,4 +1,16 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Erick
 theme: "PaperMod"
+
+
+params:
+    homeInfoParams:
+        Title: Memorias
+
+    socialIcons:
+        - name: "twitter"
+          url: "https://www.twitter.com/ErickMMuniz_"
+        - name: "instagram"
+          url: "https://www.instagram.com/erickmmuniz"
+
