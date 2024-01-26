@@ -1,8 +1,11 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: Erick
-theme: "PaperMod"
+theme: ["PaperMod"]
+baseURL: https://erickmmuniz.github.io/
+languageCode: es-mx
+title: Memories
 
+buildDrafts: true
+buildFuture: true
+buildExpired: true
 
 params:
     homeInfoParams:
@@ -13,4 +16,3 @@ params:
           url: "https://www.twitter.com/ErickMMuniz_"
         - name: "instagram"
           url: "https://www.instagram.com/erickmmuniz"
-
