@@ -1,4 +1,14 @@
-baseURL: https://erickmmuniz.memories.org/
-languageCode: en-us
+baseURL: https://erickmmuniz.github.io/
+languageCode: es-mx
 title: Memories
 theme: ["PaperMod"]
+
+params:
+    homeInfoParams:
+        Title: Contact
+
+    socialIcons:
+        - name: "x"
+          url: "https://x.com/ErickMMuniz_"
+        - name: "instagram"
+          url: "https://www.instagram.com/erickmmuniz"
